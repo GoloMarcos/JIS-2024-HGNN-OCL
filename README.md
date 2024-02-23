@@ -32,16 +32,16 @@ Heterogeneous graphs are an essential structure that models real-world data thro
 | Event | 579 | 803 | 96 | 
 
 # Proposal
-![Proposal](/images/pipeline.jpg)
+![Proposal](/images/pipeline.png)
 
 # Results
 ![Results](/images/results.png)
 
 # TSNE on FCN for GCN
-![TSNE](/images/tsne_gcn.ppg)
+![TSNE](/images/tsne_gcn.png)
 
 # TSNE on FCN for GAT
-![TSNE](/images/tsne_gat.ppg)
+![TSNE](/images/tsne_gat.png)
 
 # TSNE on FCN for GraphSAGE
-![TSNE](/images/tsne_sage.ppg)
+![TSNE](/images/tsne_sage.png)
