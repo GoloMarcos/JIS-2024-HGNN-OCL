@@ -7,7 +7,15 @@
 
 # Citing:
 
-Under review at JIS - Journal on Interactive Systems
+@article{ref:Golo2024,
+  title={Unsupervised Heterogeneous Graph Neural Networks for One-Class Tasks: Exploring Early Fusion Operators},
+  author={G{\^o}lo, Marcos Paulo Silva and de Moraes Junior, Marcelo Isaias and Goularte, Rudinei and Marcacini, Ricardo Marcondes},
+  journal={Journal on Interactive Systems},
+  volume={15},
+  number={1},
+  pages={517--529},
+  year={2024}
+}
 
 # Abstract
 
